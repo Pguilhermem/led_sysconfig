@@ -2,7 +2,7 @@
 //
 // FILE:lab_main.c
 //
-// TITLE: Lab - Blink two LEDs using SysConfig and CPU timer
+// TITLE: Lab - Blink two LEDs using SysConfig and CPU timer 2
 //
 // C2K ACADEMY URL: https://dev.ti.com/tirex/local?id=source_c2000_get_started_c2000_getstarted_sysconfig&packageId=C2000-ACADEMY
 //
